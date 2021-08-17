@@ -27,24 +27,4 @@
 * **Controller** `JAVA-fx`
 * **game** `FXML`
 
-<p align="center">
-  <img width="600" height="400" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Connect4Game/Output%20%2B%20C4%20%2B%201.png">
-</p>
-<p align="center">
-  <img width="600" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Connect4Game/Output%20%2B%20C4%20%2B%202.png">
-</p>
-<p align="center">
-  <img width="600" height="400" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Connect4Game/Output%20%2B%20C4%20%2B%203.png">
-</p>
-<p align="center">
-  <img width="600" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Connect4Game/Output%20%2B%20C4%20%2B%204.png">
-</p>
-
-> :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
-
-####        :100: Get Socialistic :100:
-➧ [Facebook](https://www.facebook.com/guru.shreyansh)
-➧ [Instagram](https://www.instagram.com/guru_shreyansh/)
-➧ [Twitter](https://twitter.com/GURU_Shreyansh)
-
-@guru-shreyansh
+ 
